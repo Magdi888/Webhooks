@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Hello World!!!'
                 echo 'ahmed'
-                echo 'pull request'
+                echo 'pull request 2'
             }
         }
     }
